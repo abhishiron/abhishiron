@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Abhishek
 
-I'm Abhishek, an IT student passionate about data analysis and building practical projects.
+I'm an IT student who enjoys exploring technology, analyzing data, and building practical projects that solve real-world problems. I’m particularly interested in understanding how data can be used to uncover patterns, generate insights, and support better decision-making. I enjoy learning new tools, experimenting with ideas, and continuously improving my problem-solving skills through hands-on projects.
 
-- 📊 Currently working on: Data analysis and time-series forecasting projects
-- 📚 Currently learning: Statistics, forecasting models (ARIMA, Holt-Winters), and advanced data analysis
-- 🧠 Interested in: Business analytics, financial analytics, and solving real-world problems with data
-- 💻 Tools I use: Python, Pandas, NumPy, SQL, Matplotlib, Git
-- 🚀 Goal: To become a skilled data analyst and work on impactful data-driven solutions
+Beyond just writing code, I like thinking about how technology, data, and business problems connect together. I believe the best way to learn is by building things, analyzing results, and refining ideas over time.
 
-⚡ Fun fact: I enjoy breaking down complex problems and turning messy data into meaningful insights.
+* 📊 Interested in data analysis, forecasting, and analytical problem solving
+* 💻 Comfortable working with programming and data tools to explore and analyze datasets
+* 🚀 Always curious about new technologies and continuously learning
+* 🔍 Enjoy turning complex or messy data into meaningful insights
+* 🧠 Passionate about developing practical skills through real-world projects
